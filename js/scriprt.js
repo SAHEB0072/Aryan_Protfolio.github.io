@@ -6,7 +6,7 @@ var typed =new Typed(".typing" ,{
     loop:true
 } )
 var typed =new Typed(".ptyping" ,{
-    strings:["","Java Developer____","Web Designer____ ", "React Js Developer____", "JAVA Backend Development____","Building RESTfull API____"],
+    strings:["  ","Java Developer...... ","Web Designer...... ", "React Js Developer...... ", "JAVA Backend Development...... ","Building RESTfull API...... "],
     typedSpeed:20,
     BackSpeed:20,
     loop:true
